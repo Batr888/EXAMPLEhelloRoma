@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\bin\Debug\net6.0\EXAMPLEhelloRoma.exe
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\bin\Debug\net6.0\EXAMPLEhelloRoma.deps.json
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\bin\Debug\net6.0\EXAMPLEhelloRoma.runtimeconfig.json
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\bin\Debug\net6.0\EXAMPLEhelloRoma.dll
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\bin\Debug\net6.0\EXAMPLEhelloRoma.pdb
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.AssemblyInfo.cs
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.dll
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\refint\EXAMPLEhelloRoma.dll
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.pdb
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\EXAMPLEhelloRoma.genruntimeconfig.cache
+C:\Users\Роман\Desktop\C@\EXAMPLEhelloRoma\obj\Debug\net6.0\ref\EXAMPLEhelloRoma.dll
