@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\C@\Example005IFELSE\bin\Debug\net6.0\Example005IFELSE.exe
+C:\Users\Роман\Desktop\C@\Example005IFELSE\bin\Debug\net6.0\Example005IFELSE.deps.json
+C:\Users\Роман\Desktop\C@\Example005IFELSE\bin\Debug\net6.0\Example005IFELSE.runtimeconfig.json
+C:\Users\Роман\Desktop\C@\Example005IFELSE\bin\Debug\net6.0\Example005IFELSE.dll
+C:\Users\Роман\Desktop\C@\Example005IFELSE\bin\Debug\net6.0\Example005IFELSE.pdb
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.AssemblyInfo.cs
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.dll
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\refint\Example005IFELSE.dll
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.pdb
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\Example005IFELSE.genruntimeconfig.cache
+C:\Users\Роман\Desktop\C@\Example005IFELSE\obj\Debug\net6.0\ref\Example005IFELSE.dll
